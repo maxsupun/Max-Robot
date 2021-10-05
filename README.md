@@ -4,7 +4,7 @@
 ## 🔥Newest version of @MaxrobotBot
 #🔥 with advanced for all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sltechworld/Max-Robot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxsupun/Max_Robot.git)
 
 
 ##🔥 New version Avaiilable on Telegram as [@MaxRobot](https://t.me/Maxrobotbot)
