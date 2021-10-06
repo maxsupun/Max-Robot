@@ -16,7 +16,7 @@
     <a href="https://github.com/maxsupun/Max-Robot"> <img src="https://img.shields.io/github/repo-size/maxsupun/Max-Robotcolor=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/maxsupun/Max-Robot/commits/maxsupun"> <img src="https://img.shields.io/github/last-commit/maxsupun/Max-Robot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/maxsupun/Max-Robot/issues"> <img src="https://img.shields.io/github/issues/maxsupun/Max-Robot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/maxsupun/Max-Robot/network/members"> <img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+      
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
