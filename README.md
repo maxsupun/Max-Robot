@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/a6281ecaae26667a13716.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/998f19ba89e1ff8adf3e4.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://github.com/maxsupun/Max-Robot"> <img src="https://img.shields.io/github/repo-size/maxsupun/Max-Robotcolor=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/maxsupun/Max-Robot/commits/maxsupun"> <img src="https://img.shields.io/github/last-commit/maxsupun/Max-Robot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
