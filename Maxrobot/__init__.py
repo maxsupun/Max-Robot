@@ -90,6 +90,7 @@ if ENV:
     IBM_WATSON_CRED_URL = os.environ.get("IBM_WATSON_CRED_URL", None)
     IBM_WATSON_CRED_PASSWORD = os.environ.get("IBM_WATSON_CRED_PASSWORD", None)
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
+    bot_start_time = time.time()
 
     try:
         WHITELIST_CHATS = set(
