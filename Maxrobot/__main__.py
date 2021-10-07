@@ -802,7 +802,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
         update.effective_message.reply_text(
-            "You can also donate to the person currently running me "
+            "You can also donate me by subscribing my owner's channel  "
             "[here]({})".format(DONATION_LINK),
             parse_mode=ParseMode.MARKDOWN,
         )
