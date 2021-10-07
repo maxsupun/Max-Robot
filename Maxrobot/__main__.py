@@ -124,6 +124,10 @@ MENU = [
         InlineKeyboardButton(
             text="System Stats", callback_data="stats_callback"),
     ],
+    [
+        InlineKeyboardButton(
+            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/Maxrobot?startgroup=true"),
+    ],
 ]
 
 IMPORTED = {}
