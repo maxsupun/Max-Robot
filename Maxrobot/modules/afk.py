@@ -135,7 +135,8 @@ def check_afk(update, context, user_id, fst_name, userc_id):
         if not user.reason:
             if int(userc_id) == int(user_id):
                 return
-            res = "{} is afk".format(fst_name)
+            res = "{} is afk. only God knows where he is.
+            STICKERS = "CAACAgUAAxkBAAIHJWFfEu1cpZ7ClM7h0Rp1-cBSPTL7AAK3AgACgeoBVuHZQ_pHAAGUGyEE" ".format(fst_name)
             update.effective_message.reply_text(res)
         else:
             if int(userc_id) == int(user_id):
