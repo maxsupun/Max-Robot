@@ -376,8 +376,8 @@ def Maxrobot_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f" @Maxrobot🇱🇰 - A bot to manage your groups with additional features!"
-            f"\n\n Here's the basic help regarding use of @Maxrobot🇱🇰."
+            text=f" @Max123robot🇱🇰 - A bot to manage your groups with additional features!"
+            f"\n\n Here's the basic help regarding use of @Max123robot🇱🇰."
             f"\n\n Almost all modules usage defined in the help menu, checkout by sending `/help`"
             f"\n\n Report error/bugs click the Button ",
             parse_mode=ParseMode.MARKDOWN,
@@ -394,7 +394,7 @@ def Maxrobot_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Donate 🤕", url="http://t.me/Maxrobot?start=donate"
+                            text="Donate 🤕", url="http://t.me/Max123robot?start=donate"
                         ),
                         InlineKeyboardButton(
                             text="Inline search 🔎", switch_inline_query_current_chat=""
@@ -417,7 +417,7 @@ def Maxrobot_about_callback(update, context):
             text=f"** Here's basic Help regarding* *How to use Me? **"
             f"\n\n Firstly Add {dispatcher.bot.first_name} to your group by pressing [here](http://t.me/{dispatcher.bot.username}?startgroup=true)\n"
             f"\n\n After adding promote me manually with full rights for faster experience.\n"
-            f"\n\n Than send `/admincache@Maxrobot` in that chat to refresh admin list in My database.\n"
+            f"\n\n Than send `/admincache@Max123robot` in that chat to refresh admin list in My database.\n"
             f"\n\n *All done now use below given button's to know about use!*\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
@@ -442,7 +442,7 @@ def Maxrobot_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*Let's make your group bot effective now*"
-            f"\nCongragulations, @Maxrobot🇱🇰 now ready to manage your group."
+            f"\nCongragulations, @Max123robot🇱🇰 now ready to manage your group."
             f"\n\n*Admin Tools*"
             f"\nBasic Admin tools help you to protect and powerup your group."
             f"\nYou can ban members, Kick members, Promote someone as admin through commands of bot."
@@ -469,7 +469,7 @@ def Maxrobot_about_callback(update, context):
         )
     elif query.data == "aboutmanu_spamprot":
         query.message.edit_text(
-            text="* @Maxrobot🇱🇰 support chats*"
+            text="* @Max123robot🇱🇰 support chats*"
             "\nJoin Support Group/Channel",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
@@ -491,7 +491,7 @@ def Maxrobot_about_callback(update, context):
         )
     elif query.data == "aboutmanu_tac":
         query.message.edit_text(
-            text=f"* CREDITS  FOR @Maxrobot🇱🇰  DEV *\n"
+            text=f"* CREDITS  FOR @Max123robot🇱🇰  DEV *\n"
             f"\n Here you can find information about the bots I coded and the people who helped me create Maxrobot"
             f"\n Special credits [supunma](https://github.com/youtubeslgeekshow) "
             f"\n Finally my special thanks to you for using this bot",
@@ -815,7 +815,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝖄𝖊𝖘 𝕴'𝖒 𝖆𝖑𝖎𝖛𝖊 🤭")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝐘𝐞𝐬, 𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞 😁")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
