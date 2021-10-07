@@ -68,7 +68,7 @@ from Maxrobot.modules.system_stats import bot_sys_stats
 PM_START_TEXT = """
 Hey there!👋  My name is Max Robot ⚡️
 I can manage your  group with lots of useful features, feel free to add me to your group.
-⚡️ Pọwẹrẹɗ Ɓy : @SL_bot_zone
+⚡️ Pọwẹrẹɗ Ɓy : @SL_Tech_Worldchat
 ✮───────────────✮
 🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : @maxsupun1
 ✮───────────────✮
@@ -382,10 +382,10 @@ def Maxrobot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Bᴜɢ'ꜱ🐞", url="t.me/slbotzone"
+                            text="Bᴜɢ'ꜱ🐞", url="t.me/SL_Tech_Worldchat"
                         ),
                         InlineKeyboardButton(
-                            text="updates💁‍♀️", url="t.me/sl_bot_zone"
+                            text="updates💁‍♀️", url="t.me/SL_Tech_Worldchat"
                         ),
                     ],
                     [
