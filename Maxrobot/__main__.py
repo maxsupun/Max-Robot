@@ -66,12 +66,18 @@ from Maxrobot.modules.system_stats import bot_sys_stats
 
 
 PM_START_TEXT = """
-Hey there!👋  My name is Max Robot ⚡️
-I can manage your  group with lots of useful features, feel free to add me to your group.
-⚡️ Pọwẹrẹɗ Ɓy : @SL_Tech_Worldchat
-✮───────────────✮
+𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞!👋  𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐌𝐚𝐱 𝐑𝐨𝐛𝐨𝐭 ⚡️
+𝐈 𝐜𝐚𝐧 𝐦𝐚𝐧𝐚𝐠𝐞 𝐲𝐨𝐮𝐫  𝐠𝐫𝐨𝐮𝐩 𝐰𝐢𝐭𝐡 𝐥𝐨𝐭𝐬 𝐨𝐟 𝐮𝐬𝐞𝐟𝐮𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬, 𝐰𝐢𝐭𝐡 𝐦𝐲 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐈.
+
+
+█▀▄▀█ ▄▀█ ▀▄▀   █▀█ █▀█ █▄▄ █▀█ ▀█▀
+█░▀░█ █▀█ █░█   █▀▄ █▄█ █▄█ █▄█ ░█░
+
+
 🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : @maxsupun1
-✮───────────────✮
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+🌟 Powered By : @SL_Tech_Worldchat
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 """
 
 HELP_STRINGS = f"""
