@@ -111,18 +111,27 @@ BUTTONS = [
     ],
 ]
 
-TEXT = """ Hey there! My name is Max Robot ⚡️ - A powerful group management bot which can help you to manage your groups effectively as possible With   Advanced AI . 
+TEXT = """ Hey there! I am Max Robot. A next gen powerful Telegram group manager bot for manage with cool, new, smart features With Advanced AI........... 
 Click `Main menu` button for more information.
-Join my [news channel](https://t.me/SL_Tech_World) to get information on all the latest updates.  """
+
+Join my [Updates Channel](https://t.me/SL_Tech_World) to get information on all the latest updates.  """
 
 MENU = [
     [
         InlineKeyboardButton(
-            text=" Main menu ", callback_data="aboutmanu_back"),
+            text=" ❇️Main menu❇️ ", callback_data="aboutmanu_back"),
     ],
     [
         InlineKeyboardButton(
-            text="System Stats", callback_data="stats_callback"),
+            text="💻System Stats", callback_data="stats_callback"),
+    ],
+    [
+        InlineKeyboardButton(
+            text=" 📣𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ", url ="https://t.me/MaxRobot_updates"),
+    ],
+    [
+        InlineKeyboardButton(
+            text=" ⚡️𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 ", url="https://t.me/MaxrobotSupport"),
     ],
     [
         InlineKeyboardButton(
@@ -314,7 +323,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*｢｢  𝗛𝗲𝗹𝗽  𝗳𝗼𝗿  {}  𝗺𝗼𝗱𝘂𝗹𝗲 」」😊*\𝗻".format(
+                "*｢｢  𝗛𝗲𝗹𝗽  𝗳𝗼𝗿  {}  𝗺𝗼𝗱𝘂𝗹𝗲 」」*".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
