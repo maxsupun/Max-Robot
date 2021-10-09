@@ -98,7 +98,7 @@ STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2Q
 BUTTONS = [
     [
         InlineKeyboardButton(
-            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/Maxrobot?startgroup=true"),
+            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/Max123robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📢 Bot updates ", url=f"https://t.me/SL_Tech_World"),
@@ -141,7 +141,7 @@ MENU = [
     ],
     [
         InlineKeyboardButton(
-            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/Maxrobot?startgroup=true"),
+            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/Max123robot?startgroup=true"),
     ],
 ]
 
@@ -401,10 +401,10 @@ def Maxrobot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Bᴜɢ'ꜱ🐞", url="t.me/SL_Tech_Worldchat"
+                            text="Bᴜɢ'ꜱ🐞", url="https://t.me/MaxrobotSupport"
                         ),
                         InlineKeyboardButton(
-                            text="updates💁‍♀️", url="t.me/SL_Tech_Worldchat"
+                            text="updates💁‍♀️", url="https://t.me/MaxRobot_updates"
                         ),
                     ],
                     [
