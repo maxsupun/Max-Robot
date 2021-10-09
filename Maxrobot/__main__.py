@@ -93,7 +93,7 @@ DONATE_STRING = """
 𝒀𝒐𝒖 𝒄𝒂𝒏 𝒅𝒐𝒏𝒂𝒕𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝒘𝒓𝒊𝒕𝒆𝒓'𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑩𝒂𝒔𝒆 𝒄𝒐𝒅𝒆,
 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒕𝒉𝒆𝒎 [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA),
 """
-STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
+STICKERS = "CAACAgUAAxkBAAIH-GFhcszMc7hLqVSCUKhVHHim73ciAAK6AwAC_MMIV7i7zh-Kg7sgIQQ"   
 
 BUTTONS = [
     [
