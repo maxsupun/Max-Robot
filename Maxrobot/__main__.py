@@ -76,7 +76,7 @@ PM_START_TEXT = """
 
 🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : @maxsupun1
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
-🌟 Powered By : @SL_Tech_Worldchat
+🌟 Powered By :[SL Tech World](https://t.me/SL_Tech_Worldchat)
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 """
 
