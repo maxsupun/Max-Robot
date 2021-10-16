@@ -124,15 +124,15 @@ MENU = [
     ],
     [
         InlineKeyboardButton(
-            text=" `System Stats` ", callback_data="stats_callback"),
+            text=" System Stats ", callback_data="stats_callback"),
     ],
     [
         InlineKeyboardButton(
-            text=" `Updates Channel` ", url ="https://t.me/MaxRobot_updates"),
+            text=" Updates Channel ", url ="https://t.me/MaxRobot_updates"),
     ],
     [
         InlineKeyboardButton(
-            text=" `Support Group` ", url="https://t.me/MaxrobotSupport"),
+            text=" Support Group ", url="https://t.me/MaxrobotSupport"),
     ],
     [
         InlineKeyboardButton(
