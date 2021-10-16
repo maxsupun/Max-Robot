@@ -120,23 +120,23 @@ Join my [Updates Channel](https://t.me/SL_Tech_World) to get information on all 
 MENU = [
     [
         InlineKeyboardButton(
-            text=" ❇️Main menu❇️ ", callback_data="aboutmanu_back"),
+            text=" Main Menu ", callback_data="aboutmanu_back"),
     ],
     [
         InlineKeyboardButton(
-            text="💻System Stats", callback_data="stats_callback"),
+            text=" `System Stats` ", callback_data="stats_callback"),
     ],
     [
         InlineKeyboardButton(
-            text=" 📣𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ", url ="https://t.me/MaxRobot_updates"),
+            text=" `Updates Channel` ", url ="https://t.me/MaxRobot_updates"),
     ],
     [
         InlineKeyboardButton(
-            text=" ⚡️𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 ", url="https://t.me/MaxrobotSupport"),
+            text=" `Support Group` ", url="https://t.me/MaxrobotSupport"),
     ],
     [
         InlineKeyboardButton(
-            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/Max123robot?startgroup=true"),
+            text="➕️ Add Me To Your Group ➕️", url="http://t.me/Max123robot?startgroup=true"),
     ],
 ]
 
