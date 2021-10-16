@@ -91,25 +91,27 @@ DONATE_STRING = """
 STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
 
 BUTTONS = [
+     
     [
         InlineKeyboardButton(
-            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/Max123robot?startgroup=true"),
+            text="➕️ Add Me To Your Group ➕️", url="http://t.me/Max123robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📢 Bot updates ", url=f"https://t.me/SL_Tech_World"),
         InlineKeyboardButton(
-            text="Repo 📦", url=f"https://github.com/maxsupun"
+            text="Rᴇᴘᴏ 📦", url=f"https://github.com/maxsupun"
         ),
     ],
     [
         InlineKeyboardButton(text="Info & about 💁‍♀️", callback_data="aboutmanu_howto"),
         InlineKeyboardButton(
-            text=" More 💫", callback_data="aboutmanu_"
+            text=" Mᴏʀᴇ 💫", callback_data="aboutmanu_"
         ),
     ],
     [
         InlineKeyboardButton(text="🧰 Help & commands 🛠 ", callback_data="help_back"),
     ],
+   
 ]
 
 TEXT = """ Hey there! I am Max Robot. A next gen powerful Telegram group manager bot for manage with cool, new, smart features With Advanced AI........... 
@@ -128,11 +130,11 @@ MENU = [
     ],
     [
         InlineKeyboardButton(
-            text=" Updates Channel ", url ="https://t.me/MaxRobot_updates"),
+            text=" Uᴘᴅᴀᴛᴇs ", url ="https://t.me/MaxRobot_updates"),
     ],
     [
         InlineKeyboardButton(
-            text=" Support Group ", url="https://t.me/MaxrobotSupport"),
+            text=" Sᴜᴘᴘᴏʀᴛ ", url="https://t.me/MaxrobotSupport"),
     ],
     [
         InlineKeyboardButton(
