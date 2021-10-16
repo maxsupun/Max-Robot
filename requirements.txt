@@ -59,4 +59,4 @@ opencv-python-headless
 telegraph
 aiohttp[speedups]
 aiofiles
-sqlalchemy
+
