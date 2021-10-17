@@ -84,7 +84,7 @@ async def lego(event):
  await event.reply('Creating your logo...wait!')
  try:
     text = event.pattern_match.group(1)
-    img = Image.open('./Maxrobot/resources/photo_2021-08-21_23-14-49.jpg')
+    img = Image.open(random.choice(TELEGRAPH_MEDIA_LINKS))
     draw = ImageDraw.Draw(img)
     image_widthz, image_heightz = img.size
     pointsize = 500
@@ -122,11 +122,11 @@ async def lego(event):
  await event.reply('Creating your logo...wait!')
  try:
     text = event.pattern_match.group(1)
-    img = Image.open('./Maxrobot/resources/download (2).png')
+    img = Image.open(random.choice(TELEGRAPH_MEDIA_LINKS))
     draw = ImageDraw.Draw(img)
     image_widthz, image_heightz = img.size
     pointsize = 500
-    fillcolor = "white"
+    fillcolor = "gold"
     shadowcolor = "blue"
     font = ImageFont.truetype("./Maxrobot/resources/Neon machine.otf.ttf", 50)
     w, h = draw.textsize(text, font=font)
