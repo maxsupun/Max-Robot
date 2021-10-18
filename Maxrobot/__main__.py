@@ -120,10 +120,8 @@ MENU = [
         InlineKeyboardButton(
             text=" Main Menu ", callback_data="aboutmanu_back"),
     ],
-    [
-        InlineKeyboardButton(
-            text="System Stats", callback_data="stats_callback"),
-    ],
+   
+   
     [
         InlineKeyboardButton(
             text="Updates", url ="https://t.me/MaxRobot_updates"),
