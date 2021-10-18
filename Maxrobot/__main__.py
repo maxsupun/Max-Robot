@@ -66,17 +66,13 @@ from Maxrobot.modules.system_stats import bot_sys_stats
 
 
 PM_START_TEXT = """
-𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞!👋  𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐌𝐚𝐱 𝐑𝐨𝐛𝐨𝐭 ⚡️
-𝐈 𝐜𝐚𝐧 𝐦𝐚𝐧𝐚𝐠𝐞 𝐲𝐨𝐮𝐫  𝐠𝐫𝐨𝐮𝐩 𝐰𝐢𝐭𝐡 𝐥𝐨𝐭𝐬 𝐨𝐟 𝐮𝐬𝐞𝐟𝐮𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬, 𝐰𝐢𝐭𝐡 𝐦𝐲 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐈.
-
-🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : @maxsupun1
-
-🌟 Powered By : @SL_Tech_Worldchat
+Hey there!👋  My name is Max Robot ⚡️
+I can manage your  group with lots of useful features, feel free to add me to your group
 
 """
 
 HELP_STRINGS = f"""
-𝑻𝒉𝒆 𝒇𝒐𝒍𝒍𝒐𝒘𝒊𝒏𝒈 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒔 𝒘𝒊𝒍𝒍 𝒉𝒆𝒍𝒑𝒇𝒖𝒍 𝒕𝒐 𝒚𝒐𝒖 𝒕𝒐 𝒎𝒂𝒏𝒂𝒈𝒆 𝒚𝒐𝒖𝒓 𝒈𝒓𝒐𝒖𝒑🙂
+The following functions will helpful to you to manage your groups
 """.format(
     dispatcher.bot.first_name,
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
@@ -84,33 +80,33 @@ HELP_STRINGS = f"""
 
 
 DONATE_STRING = """
-𝑯𝒆𝒚𝒂, 𝒈𝒍𝒂𝒅 𝒕𝒐 𝒉𝒆𝒂𝒓 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒏𝒂𝒕𝒆!
-𝒀𝒐𝒖 𝒄𝒂𝒏 𝒅𝒐𝒏𝒂𝒕𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝒘𝒓𝒊𝒕𝒆𝒓'𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑩𝒂𝒔𝒆 𝒄𝒐𝒅𝒆,
-𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒕𝒉𝒆𝒎 [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA),
+Heya, glad to hear you want to donate !
+You can donate to the original writer's of the Base code,
+Support them [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA),
 """
 STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
 
 BUTTONS = [
-     
-    [
-        InlineKeyboardButton(
-            text="➕️ Add Me To Your Group ➕️", url="http://t.me/Max123robot?startgroup=true"),
+       [
+        InlineKeyboardButton(text=" Help & Commands⚙️ ", callback_data="help_back"),
     ],
+   
     [
-        InlineKeyboardButton(text="📢 Bot updates ", url=f"https://t.me/SL_Tech_World"),
+        InlineKeyboardButton(text=" Bot Updates ", url=f"https://t.me/SL_Tech_World"),
         InlineKeyboardButton(
             text="Rᴇᴘᴏ 📦", url=f"https://github.com/maxsupun"
         ),
     ],
     [
-        InlineKeyboardButton(text="Info & about 💁‍♀️", callback_data="aboutmanu_howto"),
+        InlineKeyboardButton(text="Info & About👨 ", callback_data="aboutmanu_howto"),
         InlineKeyboardButton(
             text=" Mᴏʀᴇ 💫", callback_data="aboutmanu_"
         ),
     ],
-    [
-        InlineKeyboardButton(text="🧰 Help & commands 🛠 ", callback_data="help_back"),
-    ],
+  [
+        InlineKeyboardButton(
+            text="➕️ Add Me To Your Group ➕️", url="http://t.me/Max123robot?startgroup=true"),
+    ], 
    
 ]
 
@@ -126,15 +122,15 @@ MENU = [
     ],
     [
         InlineKeyboardButton(
-            text=" System Stats ", callback_data="stats_callback"),
+            text="System Stats", callback_data="stats_callback"),
     ],
     [
         InlineKeyboardButton(
-            text=" Uᴘᴅᴀᴛᴇs ", url ="https://t.me/MaxRobot_updates"),
+            text="Updates", url ="https://t.me/MaxRobot_updates"),
     ],
     [
         InlineKeyboardButton(
-            text=" Sᴜᴘᴘᴏʀᴛ ", url="https://t.me/MaxrobotSupport"),
+            text="Support", url="https://t.me/MaxrobotSupport"),
     ],
     [
         InlineKeyboardButton(
@@ -260,7 +256,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            " I'm online!!😊\n<b>Up since:</b> <code>{}</code>😘".format(
+            " I'm online!!😊\n<b>Up since:</b> <code>{}</code>😝".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -401,12 +397,12 @@ def Maxrobot_about_callback(update, context):
                             text="Bᴜɢ'ꜱ🐞", url="https://t.me/MaxrobotSupport"
                         ),
                         InlineKeyboardButton(
-                            text="updates💁‍♀️", url="https://t.me/MaxRobot_updates"
+                            text="Updates💁‍♀️", url="https://t.me/MaxRobot_updates"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Donate 🤕", url="http://t.me/Max123robot?start=donate"
+                            text="Donate 🤕", url="http://t.me/Max123robot?start=/donate"
                         ),
                         InlineKeyboardButton(
                             text="Inline search 🔎", switch_inline_query_current_chat=""
@@ -802,8 +798,7 @@ def is_chat_allowed(update, context):
                 raise DispatcherHandlerStop
     else:
         pass
-
-
+ 
 @run_async
 def donate(update: Update, context: CallbackContext):
     update.effective_message.from_user
@@ -827,7 +822,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝐘𝐞𝐬, 𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞 😁")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Yes, I am Alive 😊")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
