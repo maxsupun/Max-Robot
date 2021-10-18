@@ -55,7 +55,7 @@ async def lego(event):
     draw = ImageDraw.Draw(img)
     image_widthz, image_heightz = img.size
     pointsize = 500
-    fillcolor = "gold"
+    fillcolor = "white"
     shadowcolor = "blue"
     font = ImageFont.truetype("./Maxrobot/resources/font.otf",40)
     w, h = draw.textsize(text, font=font)
@@ -93,7 +93,7 @@ async def lego(event):
     draw = ImageDraw.Draw(img)
     image_widthz, image_heightz = img.size
     pointsize = 500
-    fillcolor = "gold"
+    fillcolor = "white"
     shadowcolor = "blue"
     font = ImageFont.truetype("./Maxrobot/resources/Neon machine.otf.ttf", 50)
     w, h = draw.textsize(text, font=font)
