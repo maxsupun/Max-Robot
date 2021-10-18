@@ -110,7 +110,7 @@ async def lego(event):
  except Exception as e:
    await event.reply(f'Join with us ~ @SL_Tech_Worldchat to use this, {e}')
 
-@register(pattern="^/spiderlogo ?(.*)")
+@register(pattern="^spiderlogo ?(.*)")
 async def lego(event):
  quew = event.pattern_match.group(1)
  if event.sender_id == OWNER_ID:
