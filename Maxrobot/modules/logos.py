@@ -33,7 +33,8 @@ TELEGRAPH_MEDIA_LINKS = ["./Maxrobot/resources/download (1).jfif",
                          "./Maxrobot/resources/images (8).jfif", 
                          "./Maxrobot/resources/images (9).jfif",
                          "./Maxrobot/resources/images.jfif",
-                         "./Maxrobot/resources/images.png"
+                         "./Maxrobot/resources/images.png",
+                         "./Maxrobot/resources/photo_2021-10-12_23-41-57.jpg"
                          ]
 
 @register(pattern="^/logo ?(.*)")
