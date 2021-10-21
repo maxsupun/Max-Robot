@@ -45,6 +45,8 @@ For linked group admins only:
 ❍/userbotjoinchannel - invite assistant to your chat
  
 """
+__mod_name__ = "VC Music Play🎶 
+
 BUTTONS = [
        [
         InlineKeyboardButton(text=" Support Chat ", url=f"https://t.me/SL_Tech_Worldchat"),
@@ -53,5 +55,5 @@ BUTTONS = [
     [
         InlineKeyboardButton(text=" Bot Updates ", url=f"https://t.me/SL_Tech_World"),
     ]
-__mod_name__ = "VC Music Play🎶 "   
+"   
 
