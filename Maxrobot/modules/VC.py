@@ -45,15 +45,13 @@ For linked group admins only:
 ❍/userbotjoinchannel - invite assistant to your chat
  
 """
-repmark = InlineKeyboardMarkup(
-      [
-        [
-        InlineKeyboardButton(text="Official Bots updates", url=f"https://t.me/szteambots") 
-        ],
-        [
-         InlineKeyboardButton(text="Official Bots support", url=f"https://t.me/slbotzone") 
-        ]
-      ]      
-    )
+BUTTONS = [
+       [
+        InlineKeyboardButton(text=" Support Chat ", url=f"https://t.me/SL_Tech_Worldchat"),
+    ],
+   
+    [
+        InlineKeyboardButton(text=" Bot Updates ", url=f"https://t.me/SL_Tech_World"),
+    ]
 __mod_name__ = "VC Music Play🎶 "   
 
