@@ -35,6 +35,9 @@ TELEGRAPH_MEDIA_LINKS = ["./Maxrobot/resources/download (1).jfif",
                          "./Maxrobot/resources/images.jfif",
                          "./Maxrobot/resources/images.png",
                          "./Maxrobot/resources/photo_2021-10-12_23-41-57.jpg"
+                          "./Maxrobot/resources/1.jpg",
+                          "./Maxrobot/resources/2.jpg",
+                          "./Maxrobot/resources/3.jpg"
                          ]
 
 @register(pattern="^/logo ?(.*)")
@@ -74,6 +77,42 @@ async def lego(event):
  except Exception as e:
    await event.reply(f'Join with us ~ @SL_Tech_Worldchat  to use this, {e}')
 
+    @register(pattern="^/nlogo ?(.*)")
+async def lego(event):
+ quew = event.pattern_match.group(1)
+ if event.sender_id == OWNER_ID:
+     pass
+ else:
+
+    if not quew:
+       await event.reply('Provide Some Text To Draw!')
+       return
+    else:
+       pass
+ await event.reply('Wait..now ok!')
+ try:
+    text = event.pattern_match.group(1)
+    img = Image.open(random.choice(TELEGRAPH_MEDIA_LINKS))
+    draw = ImageDraw.Draw(img)
+    image_widthz, image_heightz = img.size
+    pointsize = 25
+    fillcolor = "white"
+    shadowcolor = "firebrick"
+    font = ImageFont.truetype("./Maxrobot/resources/neon.ttf",40)
+    w, h = draw.textsize(text, font=font)
+    h += int(h*0.21)
+    image_width, image_height = img.size
+    draw.text(((image_widthz-w)/2, (image_heightz-h)/2), text, font=font, fill=(255, 255, 255))
+    x = (image_widthz-w)/2
+    y= ((image_heightz-h)/2+6)
+    draw.text((x, y), text, font=font, fill="black", stroke_width=2, stroke_fill="yellow")
+    fname2 = "Logo.png"
+    img.save(fname2, "png")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By @Max123robot🇱🇰")
+    if os.path.exists(fname2):
+            os.remove(fname2)
+ except Exception as e:
+   await event.reply(f'Join with us ~ @SL_Tech_Worldchat  to use this, {e}')
 
 @register(pattern="^/wlogo ?(.*)")
 async def logo(event):
@@ -159,6 +198,7 @@ file_helpo = file_help.replace("_", " ")
 __help__ = """
 @Max123robot🇱🇰
  ❍ /logo text :  Create your logo with your name
+ ❍ /nlogo text :  Create your logo with your name
  ❍ /wlogo text :  Create your logo with your name
  ❍ /pandalogo :  Create your logo with your name
  """
