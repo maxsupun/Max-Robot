@@ -88,11 +88,19 @@ STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2Q
 
 BUTTONS = [
        [
-        InlineKeyboardButton(text=" Help & Commands⚙️ ", callback_data="help_back"),
+        InlineKeyboardButton(text="Help & Commands⚙️", callback_data="help_back"),
+    ],
+    [
+        InlineKeyboardButton(
+            text="Uᴘᴅᴀᴛᴇs", url ="https://t.me/MaxRobot_updates"),
+    ],
+    [
+        InlineKeyboardButton(
+            text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/MaxrobotSupport"),
     ],
    
     [
-        InlineKeyboardButton(text=" Bot Updates ", url=f"https://t.me/SL_Tech_World"),
+        InlineKeyboardButton(text="Bot Updates", url=f"https://t.me/SL_Tech_World"),
         InlineKeyboardButton(
             text="Rᴇᴘᴏ 📦", url=f"https://github.com/maxsupun"
         ),
@@ -105,7 +113,7 @@ BUTTONS = [
     ],
   [
         InlineKeyboardButton(
-            text="➕️ Add Me To Your Group ➕️", url="http://t.me/Max123robot?startgroup=true"),
+            text="➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕️", url="http://t.me/Max123robot?startgroup=true"),
     ], 
    
 ]
@@ -118,21 +126,15 @@ Join my [Updates Channel](https://t.me/SL_Tech_World) to get information on all 
 MENU = [
     [
         InlineKeyboardButton(
-            text=" Main Menu ", callback_data="aboutmanu_back"),
+            text="Main Menu", callback_data="aboutmanu_back"),
     ],
-   
-   
     [
-        InlineKeyboardButton(
-            text="Updates", url ="https://t.me/MaxRobot_updates"),
+        
+        InlineKeyboardButton('Sᴇᴀʀᴄᕼ Yᴏᴜᴛᴜʙᴇ🔎', switch_inline_query_current_chat=query),
     ],
     [
         InlineKeyboardButton(
-            text="Support", url="https://t.me/MaxrobotSupport"),
-    ],
-    [
-        InlineKeyboardButton(
-            text="➕️ Add Me To Your Group ➕️", url="http://t.me/Max123robot?startgroup=true"),
+            text="➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕️", url="http://t.me/Max123robot?startgroup=true"),
     ],
 ]
 
