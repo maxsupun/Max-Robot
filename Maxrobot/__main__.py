@@ -90,10 +90,7 @@ BUTTONS = [
        [
         InlineKeyboardButton(text="Help & Commands⚙️", callback_data="help_back"),
     ],
-    [
-        InlineKeyboardButton(
-            text="Uᴘᴅᴀᴛᴇs", url ="https://t.me/MaxRobot_updates"),
-    ],
+   
     [
         InlineKeyboardButton(
             text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/MaxrobotSupport"),
@@ -128,9 +125,9 @@ MENU = [
         InlineKeyboardButton(
             text="Main Menu", callback_data="aboutmanu_back"),
     ],
-    [
-        
-        InlineKeyboardButton('Sᴇᴀʀᴄᕼ Yᴏᴜᴛᴜʙᴇ🔎', switch_inline_query_current_chat=query),
+     [
+        InlineKeyboardButton(
+            text="Uᴘᴅᴀᴛᴇs", url ="https://t.me/MaxRobot_updates"),
     ],
     [
         InlineKeyboardButton(
