@@ -1,4 +1,4 @@
-import re
+import re sub
 
 from Maxrobot import pbot
 from pyrogram import filters
