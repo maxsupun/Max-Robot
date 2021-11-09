@@ -1,6 +1,5 @@
 import re
-from szbot import sz
-from re import sub
+
 from Maxrobot import pbot
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
