@@ -10,9 +10,12 @@ repmark = InlineKeyboardMarkup(
         ]
       ]      
     )
+
 def nospace(s):
 
-    s = sub(r"\s+", '%20', s)
+    s = re.sub(r"\s+", '%20', s)
+
+    return s
 
 @pbot.on_message(filters.command("logo"))
 async def make_logo(_, message):
