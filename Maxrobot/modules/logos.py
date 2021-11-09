@@ -40,7 +40,7 @@ TELEGRAPH_MEDIA_LINKS = ["./Maxrobot/resources/download (1).jfif",
                           "./Maxrobot/resources/3.jpg"
                          ]
 
-@register(pattern="^zlogo ?(.*)")
+@register(pattern="^/logo ?(.*)")
 async def lego(event):
  quew = event.pattern_match.group(1)
  if event.sender_id == OWNER_ID:
