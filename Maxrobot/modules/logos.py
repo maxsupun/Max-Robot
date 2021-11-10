@@ -15,7 +15,7 @@ FONT_FILE_TO_USE = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 #Add telegraph media links of profile pics that are to be used
 TELEGRAPH_MEDIA_LINKS = ["./Maxrobot/resources/download (1).jfif", 
                          "./Maxrobot/resources/download (1).png", 
-                         "./Maxrobot/resources/download (2).jfif",
+
                          "./Maxrobot/resources/download (2).png",
                          "./Maxrobot/resources/download (3).jfif",    
                          "./Maxrobot/resources/download (4).jfif", 
