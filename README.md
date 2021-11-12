@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/998f19ba89e1ff8adf3e4.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/f758fbcc18b26b6266650.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://github.com/maxsupun/Max-Robot"> <img src="https://img.shields.io/github/repo-size/maxsupun/Max-Robot=color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/maxsupun/Max-Robot/commits/maxsupun"> <img src="https://img.shields.io/github/last-commit/maxsupun/Max-Robot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -54,12 +54,6 @@ $ python3 -m Max-Robot
 ```
 
 
-
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
-This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
-
-All other credits mentioned on top of scripts
-
 Should any be missing kindly let us know at [Max-Robot](https://t.me/MaxRobot_updates) or simply submit a pull request on the readme.
 
 ## Max-Robot bot the telegram Bot Project
@@ -82,4 +76,4 @@ The Max-Robot bot(advanced)
 - [Sadew Jsk](https://Github.com/sadew451) -  Dev
 - [Supunma](https://Github.com/supunmadurangasl)
 
-❤️ THANKS FOR ALL  [@Max-Robot](https://t.me/Max123Robot) USERS & CONTRIBUTORS 🙋‍♂️
+
