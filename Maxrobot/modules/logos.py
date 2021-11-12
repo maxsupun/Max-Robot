@@ -13,26 +13,13 @@ from telethon.tl.types import InputMessagesFilterPhotos
 FONT_FILE_TO_USE = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 
 #Add telegraph media links of profile pics that are to be used
-TELEGRAPH_MEDIA_LINKS = ["./Maxrobot/resources/download (1).jfif", 
+TELEGRAPH_MEDIA_LINKS = [ 
                          "./Maxrobot/resources/download (1).png", 
 
                          "./Maxrobot/resources/download (2).png",
-                         "./Maxrobot/resources/download (3).jfif",    
-                         "./Maxrobot/resources/download (4).jfif", 
-                         "./Maxrobot/resources/download (5).jfif",
-                         "./Maxrobot/resources/download (7).jfif",
-                         "./Maxrobot/resources/download.jfif",
+                        
                          "./Maxrobot/resources/download.png", 
-                         "./Maxrobot/resources/images (1).jfif",
-                         "./Maxrobot/resources/images (2).jfif",
-                         "./Maxrobot/resources/images (3).jfif",
-                         "./Maxrobot/resources/images (4).jfif", 
-                         "./Maxrobot/resources/images (5).jfif",
-                         "./Maxrobot/resources/images (6).jfif",
-                         "./Maxrobot/resources/images (7).jfif",     
-                         "./Maxrobot/resources/images (8).jfif", 
-                         "./Maxrobot/resources/images (9).jfif",
-                         "./Maxrobot/resources/images.jfif",
+                        
                          "./Maxrobot/resources/images.png",
                          "./Maxrobot/resources/photo_2021-10-12_23-41-57.jpg",
                           "./Maxrobot/resources/1.jpg",
