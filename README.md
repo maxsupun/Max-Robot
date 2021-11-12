@@ -19,11 +19,13 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-
+> If You're Going To Fork This Repo Then Don't Forget To Hit a Star ✯
+## Available on Telegram as [MaxRobot](https://t.me/Max123Robot)
 
 > ⭐️ Thanks to everyone who starred Max Robot, That is the greatest pleasure we have !
 
-# 🏃‍♂️ Easy Deploy 
+## ✨ Easy To Deploy ✨
+The easiest way to deploy this Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxsupun/Max-Robot.git)
 
@@ -80,6 +82,11 @@ The Max-Robot bot(advanced)
 - [Supunma](https://Github.com/supunmadurangasl)
 
 
+# 🗡️ Support
+<a href="https://t.me/MaxRobotSupport"><img src="https://img.shields.io/badge/Support 🎉-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MaxRobot_updates"><img src="https://img.shields.io/badge/Updates 💥-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
 ## Check For Updates
 
 
@@ -88,3 +95,4 @@ The Max-Robot bot(advanced)
 [![Telegram](https://img.shields.io/badge/slbotzone%20Team-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/maxsupun1)&nbsp;
 
 [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/maxsupun) 
+
