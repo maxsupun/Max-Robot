@@ -69,7 +69,7 @@ The Max-Robot bot(advanced)
 
 ## Special Credits
 
-
+   **[Supun Max](https://Github.com/maxsupun)** - Owner | Dev
 - **[Sadew Jsk](https://Github.com/sadew451)**
 - **[Supunma](https://Github.com/supunmadurangasl)** 
 - **[TeamDaisyx](https://github.com/teamdaisyx)**
@@ -82,4 +82,4 @@ The Max-Robot bot(advanced)
 - [Sadew Jsk](https://Github.com/sadew451) -  Dev
 - [Supunma](https://Github.com/supunmadurangasl)
 
-❤️ THANKS FOR ALL  [@Max-Robot](https://T.me/Max123Robot) USERS & CONTRIBUTORS 🙋‍♂️
+❤️ THANKS FOR ALL  [@Max-Robot](https://t.me/Max123Robot) USERS & CONTRIBUTORS 🙋‍♂️
