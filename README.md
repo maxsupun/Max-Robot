@@ -12,7 +12,7 @@
 
 <p align="center"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/f758fbcc18b26b6266650.jpg" width="400"></a></p>
 <p align="center">
-    <a href="https://github.com/maxsupun/Max-Robot"> <img src="https://img.shields.io/github/repo-size/maxsupun/Max-Robot=color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/maxsupun/Max-Robot"> <img src="https://img.shields.io/github/repo-size/maxsupun/Max-Robot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/maxsupun/Max-Robot/commits/maxsupun"> <img src="https://img.shields.io/github/last-commit/maxsupun/Max-Robot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/maxsupun/Max-Robot/issues"> <img src="https://img.shields.io/github/issues/maxsupun/Max-Robot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
        <a href="https://github.com/maxsupun/Max-Robot/network/members"> <img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
