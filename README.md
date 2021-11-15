@@ -68,24 +68,39 @@ The Max-Robot bot(advanced)
 
 ## Special Credits
 
-   **[Supun Max](https://Github.com/maxsupun)** - Owner | Dev
-- **[Sadew Jsk](https://Github.com/sadew451)**
-- **[Supunma](https://Github.com/supunmadurangasl)** 
-- **[TeamDaisyx](https://github.com/teamdaisyx)**
-- **[Tinurad](https://github.com/Tinurad)**
-- **[Damantha Jayasingha](https://github.com/damantha126)**
 
-## Devs ⭐️
+## Contributors
 
-- [Supun Max](https://Github.com/maxsupun) - Owner | Dev
-- [Sadew Jsk](https://Github.com/sadew451) -  Dev
+### ✪ Owners
+- [Supun Max](https://t.me/maxsupun1) » [GitHub](https://github.com/maxsupun) (Bot Founder)
+
+
+### ✪ Developers
+- [Sadew Jsk](https://Github.com/sadew451)
 - [Supunma](https://Github.com/supunmadurangasl)
+- [Tinurad](https://github.com/Tinurad)
+- [Damantha Jayasingha](https://github.com/damantha126)
 
+### ✪ Supporters
+- [Uvindu Bro](http://t.me/UvinduBro) » [GitHub](https://github.com/UvinduBro)
+ [Deshadeeth Thisarana](https://t.me/DeshadeethThisarana)
+- [TeamDaisyx](https://github.com/teamdaisyx)
 
 # 🗡️ Support
 <a href="https://t.me/MaxRobotSupport"><img src="https://img.shields.io/badge/Support 🎉-Telegram%20Group-blue.svg?logo=telegram"></a>
 <a href="https://t.me/MaxRobot_updates"><img src="https://img.shields.io/badge/Updates 💥-Telegram%20Group-blue.svg?logo=telegram"></a>
 
+ 
+
+## All who helped at a glance 
+
+> This project exists thanks to these awesome developers and their codes and contributions.
+
+![Supportors](https://contrib.rocks/image?repo=maxsupun/Max-Robot)
+
+> And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
+
+> Special thanks to you for using bot
 
 ## Check For Updates
 
@@ -94,5 +109,5 @@ The Max-Robot bot(advanced)
 
 [![Telegram](https://img.shields.io/badge/Max_Robot%20Updates-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/MaxRobot_updates)&nbsp;
 
-[![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/maxsupun) 
+[![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/maxsupun)
 
