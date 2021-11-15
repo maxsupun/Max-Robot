@@ -57,7 +57,7 @@ $ python3 -m Max-Robot
 
 # Contributors
     
-![GitHub Contributors Image](https://contrib.rocks/image?repo=maxsupun/Max-Robo)  
+![GitHub Contributors Image](https://contrib.rocks/image?repo=maxsupun/Max-Robot)  
 
 Should any be missing kindly let us know at [Max-Robot](https://t.me/MaxRobot_updates) or simply submit a pull request on the readme.
 
@@ -96,7 +96,7 @@ The Max-Robot bot(advanced)
 
 > This project exists thanks to these awesome developers and their codes and contributions.
 
-![Supportors](https://contrib.rocks/image?repo=maxsupun/Max-Robo)
+![Supportors](https://contrib.rocks/image?repo=maxsupun/Max-Robot)
 
 > And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
 
