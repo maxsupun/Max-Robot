@@ -83,7 +83,7 @@ The Max-Robot bot(advanced)
 
 ### ✪ Supporters
 - [Uvindu Bro](http://t.me/UvinduBro) » [GitHub](https://github.com/UvinduBro)
- [Deshadeeth Thisarana](https://t.me/DeshadeethThisarana)
+-[Deshadeeth Thisarana](https://t.me/DeshadeethThisarana)
 - [TeamDaisyx](https://github.com/teamdaisyx)
 
 # 🗡️ Support
