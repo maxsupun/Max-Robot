@@ -80,6 +80,7 @@ The Max-Robot bot(advanced)
 - [Supunma](https://Github.com/supunmadurangasl)
 - [Tinurad](https://github.com/Tinurad)
 - [Damantha Jayasingha](https://github.com/damantha126)
+- Dileepa Malshan
 
 ### ✪ Supporters
 - [Uvindu Bro](http://t.me/UvinduBro) » [GitHub](https://github.com/UvinduBro)
