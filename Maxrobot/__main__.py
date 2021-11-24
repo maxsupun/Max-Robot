@@ -68,7 +68,6 @@ from Maxrobot.modules.system_stats import bot_sys_stats
 PM_START_TEXT = """
 Hey there!👋  My name is Max Robot ⚡️
 I can manage your  group with lots of useful features, feel free to add me to your group
-
 """
 
 HELP_STRINGS = f"""
@@ -84,7 +83,7 @@ Heya, glad to hear you want to donate !
 You can donate to the original writer's of the Base code,
 Support them [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA),
 """
-STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
+reply_sticker = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
 
 BUTTONS = [
        [
@@ -112,12 +111,10 @@ BUTTONS = [
         InlineKeyboardButton(
             text="➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕️", url="http://t.me/Max123robot?startgroup=true"),
     ], 
-   
 ]
 
-TEXT = """ Hey there! I am Max Robot. A next gen powerful Telegram group manager bot for manage with cool, new, smart features With Advanced AI........... 
+TEXT = """ """ Hey there! I am Max Robot. A next gen powerful Telegram group manager bot for manage with cool, new, smart features With Advanced AI........... 
 Click `Main menu` button for more information.
-
 Join my [Updates Channel](https://t.me/SL_Tech_World) to get information on all the latest updates.  """
 
 MENU = [
@@ -253,12 +250,12 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            " I'm online!!😊\n<b>Up since:</b> <code>{}</code>😝".format(
+            " I'm online!!♻️\n<b>Up since:</b> <code>{}</code>🌐".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Updates", url ="https://t.me/MaxRobot_updates")]],
+                [[InlineKeyboardButton(text="Updates", url ="https://t.me/ElizaBotUpdates")]],
             ),
         )
     
@@ -319,7 +316,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*｢｢  𝗛𝗲𝗹𝗽  𝗳𝗼𝗿  {}  𝗺𝗼𝗱𝘂𝗹𝗲 」」*".format(
+                "╔═════「 Help For {} module  」═════╗\n\nHere Is The Available  Help\n          For The {}   \n\n╚═════「  The Eliza Bot  」═════╝\n        ".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -382,7 +379,7 @@ def Maxrobot_about_callback(update, context):
     if query.data == "aboutmanu_":
         query.message.edit_text(
             text=f" @Max123robot🇱🇰 - A bot to manage your groups with additional features!"
-            f"\n\n Here's the basic help regarding use of @Max123robot🇱🇰."
+            f"\n\n Here's the basic help regarding use of @TheElizaBot🇱🇰."
             f"\n\n Almost all modules usage defined in the help menu, checkout by sending `/help`"
             f"\n\n Report error/bugs click the Button ",
             parse_mode=ParseMode.MARKDOWN,
@@ -391,18 +388,18 @@ def Maxrobot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Bᴜɢ'ꜱ🐞", url="https://t.me/MaxrobotSupport"
+                            text="🐞 Bugs", url="https://t.me/ElizaSUPPORT_OFFICIAL"
                         ),
                         InlineKeyboardButton(
-                            text="Updates💁‍♀️", url="https://t.me/MaxRobot_updates"
+                            text="🗣 Updates", url="https://t.me/ElizaBotUpdates"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Donate 🤕", url="http://t.me/Max123robot?start=/donate"
+                            text="🤕 Donate", url="http://t.me/TheElizaBot?start=/donate"
                         ),
                         InlineKeyboardButton(
-                            text="Inline search 🔎", switch_inline_query_current_chat=""
+                            text="🔎 Inline search", switch_inline_query_current_chat=""
                         ),
                     ],
                     [InlineKeyboardButton(text="Back", callback_data="aboutmanu_back")],
@@ -422,7 +419,7 @@ def Maxrobot_about_callback(update, context):
             text=f"** Here's basic Help regarding* *How to use Me? **"
             f"\n\n Firstly Add {dispatcher.bot.first_name} to your group by pressing [here](http://t.me/{dispatcher.bot.username}?startgroup=true)\n"
             f"\n\n After adding promote me manually with full rights for faster experience.\n"
-            f"\n\n Than send `/admincache@Max123robot` in that chat to refresh admin list in My database.\n"
+            f"\n\n Than send `/admincache@TheElizaBot` in that chat to refresh admin list in My database.\n"
             f"\n\n *All done now use below given button's to know about use!*\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
@@ -447,7 +444,7 @@ def Maxrobot_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*Let's make your group bot effective now*"
-            f"\nCongragulations, @Max123robot🇱🇰 now ready to manage your group."
+            f"\nCongragulations, @TheElizaBot🇱🇰 now ready to manage your group."
             f"\n\n*Admin Tools*"
             f"\nBasic Admin tools help you to protect and powerup your group."
             f"\nYou can ban members, Kick members, Promote someone as admin through commands of bot."
@@ -474,7 +471,7 @@ def Maxrobot_about_callback(update, context):
         )
     elif query.data == "aboutmanu_spamprot":
         query.message.edit_text(
-            text="* @Max123robot🇱🇰 support chats*"
+            text="* @TheElizaBot🇱🇰 support chats*"
             "\nJoin Support Group/Channel",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
@@ -496,9 +493,9 @@ def Maxrobot_about_callback(update, context):
         )
     elif query.data == "aboutmanu_tac":
         query.message.edit_text(
-            text=f"* CREDITS  FOR @Max123robot🇱🇰  DEV *\n"
+            text=f"* CREDITS  FOR @TheElizaBot🇱🇰  DEV *\n"
             f"\n Here you can find information about the bots I coded and the people who helped me create Maxrobot"
-            f"\n Special credits [supunma](https://github.com/youtubeslgeekshow) "
+            f"\n Special credits [Supun Max](https://github.com/maxsupun) "
             f"\n Finally my special thanks to you for using this bot",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -554,7 +551,7 @@ def get_help(update, context):
                     [
                         InlineKeyboardButton(
                             text="Click me for help!",
-                            url="https://t.me/Max123robot",
+                            url="https://t.me/TheElizaBot",
                         )
                     ],
                 ]
@@ -819,7 +816,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Yes, I am Alive 😊")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "I am now online 🌂")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
