@@ -86,7 +86,7 @@
          "required": false,
          "value": "1826170111"
       },
-      "sw_api": {
+      "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
          "value": ""
@@ -140,11 +140,6 @@
          "value": "cleaner rss connection"
             
             },
-      "DB_URI": {
-         "description": "creae mongo database ",
-         "required": true,
-         "value": "uri"
-      }, 
       "BL_CHATS": {
          "description": "List of chats you want blacklisted.",
          "required": false,
@@ -159,10 +154,7 @@
          "required": false,
          "value": "https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA"
       },
-      "DEL_CMDS": {
-         "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
-         "value": "True"
-      },
+     
       "AI_API_KEY": {
       "description": "Make your bot talk using Intellivoid's chatbot API, get your key from https://coffeehouse.intellivoid.net/",
          "required": false,
