@@ -255,7 +255,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Updates", url ="https://t.me/ElizaBotUpdates")]],
+                [[InlineKeyboardButton(text="Updates", url ="https://t.me/MaxRobot_updates")]],
             ),
         )
     
@@ -388,15 +388,15 @@ def Maxrobot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🐞 Bugs", url="https://t.me/ElizaSUPPORT_OFFICIAL"
+                            text="🐞 Bugs", url="https://t.me/MaxRobotSupport"
                         ),
                         InlineKeyboardButton(
-                            text="🗣 Updates", url="https://t.me/ElizaBotUpdates"
+                            text="🗣 Updates", url="https://t.me/MaxRobot_updates"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🤕 Donate", url="http://t.me/TheElizaBot?start=/donate"
+                            text="🤕 Donate", url="http://t.me/Max123Robot?start=/donate"
                         ),
                         InlineKeyboardButton(
                             text="🔎 Inline search", switch_inline_query_current_chat=""
@@ -816,7 +816,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "I am now online 🌂")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "I am now online🧿")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
