@@ -113,7 +113,7 @@ BUTTONS = [
     ], 
 ]
 
-TEXT = """ """ Hey there! I am Max Robot. A next gen powerful Telegram group manager bot for manage with cool, new, smart features With Advanced AI........... 
+TEXT = """ Hey there! I am Max Robot. A next gen powerful Telegram group manager bot for manage with cool, new, smart features With Advanced AI........... 
 Click `Main menu` button for more information.
 Join my [Updates Channel](https://t.me/SL_Tech_World) to get information on all the latest updates.  """
 
