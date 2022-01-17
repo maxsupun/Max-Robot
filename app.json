@@ -46,7 +46,12 @@
          "description": "Your postgres sql db, empty this field if you dont have one.",
          "required": false,
          "value": "sqldbtype://username:pw@hostname:port/db_name"
-      },      
+      },
+      "DB_URI": {
+         "description": "Your postgres sql db, empty this field if you dont have one",
+         "required": true,
+         "value": ""
+      },  
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
