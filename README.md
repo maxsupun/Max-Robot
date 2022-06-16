@@ -24,11 +24,10 @@
 
 
 Available on Telegram as [MaxRobot](https://t.me/Max123Robot)
-
 ⭐️ Thanks to everyone who starred Max Robot, That is the greatest pleasure we have !
-
 Easy To Deploy 
-<h3> The easiest way to deploy this Bot</h3>
+
+<h4> The easiest way to deploy this Bot</h4>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxsupun/Max-Robot.git)
 
