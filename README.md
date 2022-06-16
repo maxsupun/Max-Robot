@@ -22,9 +22,6 @@
 <p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" size="25%" ></a></p>
 
 
-
-Available on Telegram as [MaxRobot](https://t.me/Max123Robot)
-⭐️ Thanks to everyone who starred Max Robot, That is the greatest pleasure we have !
 Easy To Deploy 
 
 <h4> The easiest way to deploy this Bot</h4>
