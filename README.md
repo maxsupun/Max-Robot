@@ -19,7 +19,7 @@
 
 
 
-<p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" size="75%" ></a></p>
+<p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" size="25%" ></a></p>
 
 
 > **If You're Going To Fork This Repo Then Don't Forget To Hit a Star ✯**
