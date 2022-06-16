@@ -1,4 +1,4 @@
-<h1 align="center"><b>💥 Max Robot 💥</b></h1>
+<h1>  Max Robot </h1>
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Max-Robot&theme=dark)
 
