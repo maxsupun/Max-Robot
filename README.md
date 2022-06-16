@@ -16,7 +16,13 @@
 <p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" size="25%" ></a></p>
 
 
-Easy To Deploy 
+<h3> Repo Stats </h3>
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Max-Robot&theme=light)
+
+<a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/stars/maxsupun/Max-Robot?style=social"></a>
+<a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?style=social"></a>
+
 
 <h2>Deploy To Heroku</h2>
 The easiest way to deploy this Bot
@@ -24,12 +30,6 @@ The easiest way to deploy this Bot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxsupun/Max-Robot.git)
 
 
-<h3> Repo Stats </h3>
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Max-Robot&theme=light)
-
-<a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/stars/maxsupun/Max-Robot?style=social"></a>
-<a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?style=social"></a>
 
 <h2> Self-hosting/ VPS hosting (For Devs)</h2>
 
