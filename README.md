@@ -28,12 +28,10 @@ Available on Telegram as [MaxRobot](https://t.me/Max123Robot)
 ⭐️ Thanks to everyone who starred Max Robot, That is the greatest pleasure we have !
 
 Easy To Deploy 
-The easiest way to deploy this Bot
+<h3> The easiest way to deploy this Bot</h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxsupun/Max-Robot.git)
 
-
-<p align="center"><a href="https://heroku.com/deploy?template=https:/github.com/maxsupun/Max-Robot"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=red"width="300"heigh="100" /></a></p>
 
 <h3> Repo Stats </h3>
 
