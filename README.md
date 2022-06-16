@@ -35,7 +35,8 @@ Easy To Deploy
 <h3> Repo Stats </h3>
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Max-Robot&theme=light)
-
+https://img.shields.io/github/stars/maxsupun/Max-Robot?style=social
+https://img.shields.io/github/forks/maxsupun/Max-Robot?style=social
 
 <h4> Self-hosting (For Devs)</h4>
 
@@ -96,13 +97,6 @@ Special Credits to All who helped at a glance
 - [TeamDaisyx](https://github.com/teamdaisyx)
 
 <h4> Support</h4>
-
-|  <a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                   |
-|[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Boy_Alone_In_Universe)&nbsp;
-
-
 
 <a href="https://t.me/MaxRobotSupport"><img src="https://img.shields.io/badge/Support 🎉-Telegram%20Group-blue.svg?logo=telegram"></a>
 <a href="https://t.me/MaxRobot_updates"><img src="https://img.shields.io/badge/Updates 💥-Telegram%20Group-blue.svg?logo=telegram"></a>
