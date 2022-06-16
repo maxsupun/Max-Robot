@@ -1,15 +1,22 @@
 <h1>A Powerful, Smart Telegram Group Manager Bot- Max Robot</h1>
 
 
-
-
-
-
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/maxsupun/Max-Robot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
+
+<p align="center"> <br>
+    <img src="https://img.shields.io/github/license/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
+    <img src="https://img.shields.io/github/issues/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Stars">
+</p>
+
 
 
 <p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" size="75%" ></a></p>
