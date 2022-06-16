@@ -78,12 +78,11 @@ Special Credits to All who helped at a glance
   <summary><h4> Contributors </h4></summary> 
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=maxsupun/Max-Robot)  
+  </details>
 
- ✪ Owners
-- [Supun Max](https://t.me/maxsupun1) » [GitHub](https://github.com/maxsupun) (Bot Founder)
-
-
-✪ Developers
+<details>
+<summary><h4>Credits </h4>
+  ✪ Developers
 - [Sadew Jsk](https://Github.com/sadew451)
 - [Supunma](https://Github.com/supunmadurangasl)
 - [Tinurad](https://github.com/Tinurad)
