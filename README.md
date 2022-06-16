@@ -36,7 +36,7 @@ Easy To Deploy
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Max-Robot&theme=light)
 
-<br> https://img.shields.io/github/stars/maxsupun/Max-Robot?style=social
+<br> <p align="center"><a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/stars/maxsupun/Max-Robot?style=social"></a></p>
 
 <br> https://img.shields.io/github/forks/maxsupun/Max-Robot?style=social
 
