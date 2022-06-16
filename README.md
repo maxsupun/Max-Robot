@@ -75,13 +75,7 @@ The Max-Robot bot(advanced)
 Special Credits to All who helped at a glance 
 
 <details>
-  <summary><h4> Contributors </h4></summary> 
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=maxsupun/Max-Robot)  
-  </details>
-
-<details>
-<summary><h4>Credits </h4><summary>
+<summary><h4>Credits </h4></summary>
   
 - [Sadew Jsk](https://Github.com/sadew451)
 - [Supunma](https://Github.com/supunmadurangasl)
