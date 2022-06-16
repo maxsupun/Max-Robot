@@ -111,9 +111,8 @@ Special Credits to All who helped at a glance
  
 
 This project exists thanks to these awesome developers and their codes and contributions.
-![Supportors](https://contrib.rocks/image?repo=maxsupun/Max-Robot)
- And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
- Special thanks to you for using bot
+And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
+Special thanks to you for using bot
 
 <h4> Check For Updates</h4> 
 
