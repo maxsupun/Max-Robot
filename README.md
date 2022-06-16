@@ -38,7 +38,7 @@ Easy To Deploy
 
 <br> <a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/stars/maxsupun/Max-Robot?style=social"></a>
 
-<br> <a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?style=social"</a>
+<br> <a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?style=social"></a>
 
 <h4> Self-hosting (For Devs)</h4>
 
