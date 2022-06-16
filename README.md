@@ -58,11 +58,6 @@ $ python3 -m Max-Robot
 [+] The Max-Robot won't run without setting the mandatory vars.
 ```
 
-Should any be missing kindly let us know at [Max-Robot](https://t.me/MaxRobot_updates) or simply submit a pull request on the readme.
-Max-Robot bot the telegram Bot Project
-The Advanced Branch (For PRO's)
-The Max-Robot bot(advanced)
-
 Special Credits to All who helped at a glance 
 
 <details>
