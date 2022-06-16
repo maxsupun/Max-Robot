@@ -8,25 +8,19 @@
 </p>
 
 <p align="center"> <br>
-    <img src="https://img.shields.io/github/license/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/license/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
-    <img src="https://img.shields.io/github/issues/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/youtubeslgeekshow/sz-rose-bot?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img src="https://img.shields.io/github/issues/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Stars">
 </p>
 
 
 
 <p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" size="75%" ></a></p>
-<p align="center">
-    <a href="https://github.com/maxsupun/Max-Robot"> <img src="https://img.shields.io/github/repo-size/maxsupun/Max-Robot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/maxsupun/Max-Robot/commits/maxsupun"> <img src="https://img.shields.io/github/last-commit/maxsupun/Max-Robot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/maxsupun/Max-Robot/issues"> <img src="https://img.shields.io/github/issues/maxsupun/Max-Robot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-       <a href="https://github.com/maxsupun/Max-Robot/network/members"> <img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 
 > **If You're Going To Fork This Repo Then Don't Forget To Hit a Star ✯**
 ## Available on Telegram as [MaxRobot](https://t.me/Max123Robot)
