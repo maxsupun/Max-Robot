@@ -37,7 +37,7 @@ The easiest way to deploy this Bot
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Max-Robot&theme=light)
 
 
- Self-hosting (For Devs)
+<h4> Self-hosting (For Devs)</h4>
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/maxsupun/Max-Robot
@@ -51,7 +51,7 @@ $ pip3 install -r requirements.txt
 $ python3 -m Max-Robot
 ```
 
-Mandatory Vars 
+<h4>Mandatory Vars </h4>
 ```
 [+] Make Sure You Add All These Mandatory Vars. 
     [-] APP_ID:   You can get this value from https://my.telegram.org
@@ -74,7 +74,7 @@ The Max-Robot bot(advanced)
 
 Special Credits to All who helped at a glance 
 
-Contributors
+<h4> Contributors </h4> 
 
  ✪ Owners
 - [Supun Max](https://t.me/maxsupun1) » [GitHub](https://github.com/maxsupun) (Bot Founder)
@@ -92,7 +92,7 @@ Contributors
 -[Deshadeeth Thisarana](https://t.me/DeshadeethThisarana)
 - [TeamDaisyx](https://github.com/teamdaisyx)
 
-🗡️ Support
+<h4> Support</h4>
 
 |  <a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -111,7 +111,7 @@ This project exists thanks to these awesome developers and their codes and contr
  And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
  Special thanks to you for using bot
 
-Check For Updates
+<h4> Check For Updates</h4> 
 
 
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1)&nbsp; 
