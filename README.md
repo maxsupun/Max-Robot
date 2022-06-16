@@ -72,7 +72,7 @@ Max-Robot bot the telegram Bot Project
 The Advanced Branch (For PRO's)
 The Max-Robot bot(advanced)
 
-Special Credits
+Special Credits to All who helped at a glance 
 
 Contributors
 
@@ -105,11 +105,11 @@ Contributors
 <a href="https://t.me/MaxRobot_updates"><img src="https://img.shields.io/badge/Updates 💥-Telegram%20Group-blue.svg?logo=telegram"></a>
 
  
- All who helped at a glance 
-> This project exists thanks to these awesome developers and their codes and contributions.
+
+This project exists thanks to these awesome developers and their codes and contributions.
 ![Supportors](https://contrib.rocks/image?repo=maxsupun/Max-Robot)
-> And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
-> Special thanks to you for using bot
+ And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
+ Special thanks to you for using bot
 
 Check For Updates
 
