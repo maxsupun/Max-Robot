@@ -18,7 +18,8 @@
 
 Easy To Deploy 
 
-<h4> The easiest way to deploy this Bot</h4>
+<h2>Deploy To Heroku</h2>
+The easiest way to deploy this Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxsupun/Max-Robot.git)
 
@@ -30,7 +31,7 @@ Easy To Deploy
 <a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/stars/maxsupun/Max-Robot?style=social"></a>
 <a href="https://github.com/maxsupun"><img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?style=social"></a>
 
-<h4> Self-hosting (For Devs)</h4>
+<h2> Self-hosting/ VPS hosting (For Devs)</h2>
 
 ```sh
 # Install Git First (apt-instll git)
