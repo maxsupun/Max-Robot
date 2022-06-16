@@ -35,7 +35,9 @@ Easy To Deploy
 <h3> Repo Stats </h3>
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Max-Robot&theme=light)
+
 https://img.shields.io/github/stars/maxsupun/Max-Robot?style=social
+
 https://img.shields.io/github/forks/maxsupun/Max-Robot?style=social
 
 <h4> Self-hosting (For Devs)</h4>
