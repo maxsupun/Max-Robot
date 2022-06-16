@@ -1,7 +1,7 @@
 {
       "name": "Max Robot",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/8225b8716814d89ff4a76.jpg",
+      "logo": "https://telegra.ph/file/95a8e17870d63307c443b.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -159,12 +159,6 @@
          "required": false,
          "value": "https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA"
       },
-     
-      "AI_API_KEY": {
-      "description": "Make your bot talk using Intellivoid's chatbot API, get your key from https://coffeehouse.intellivoid.net/",
-         "required": false,
-         "value": ""
-   },      
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
          "required": false,
