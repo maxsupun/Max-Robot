@@ -1,6 +1,9 @@
 <h1>A Powerful, Smart Telegram Group Manager Bot- Max Robot</h1>
 
+A Special Group manager Bot to help you to protect and manage your Groups
 
+
+<p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" size="25%" ></a></p>
 <p align="center"> <br>
     <img src="https://img.shields.io/github/license/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Contributors">
@@ -10,10 +13,6 @@
     <img src="https://img.shields.io/github/forks/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Forks">
     <img src="https://img.shields.io/github/stars/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Stars">
 </p>
-
-
-
-<p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" size="25%" ></a></p>
 
 
 <h3> Repo Stats </h3>
