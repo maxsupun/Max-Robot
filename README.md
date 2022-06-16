@@ -94,6 +94,8 @@ Special Credits to All who helped at a glance
 - [Uvindu Bro](http://t.me/UvinduBro) » [GitHub](https://github.com/UvinduBro)
 -[Deshadeeth Thisarana](https://t.me/DeshadeethThisarana)
 - [TeamDaisyx](https://github.com/teamdaisyx)
+  
+  </details>
 
 <h3> Support</h3>
 
