@@ -1,9 +1,5 @@
 <h1>A Powerful, Smart Telegram Group Manager Bot- Max Robot</h1>
 
-<p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/maxsupun/Max-Robot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
-</p>
 
 <p align="center"> <br>
     <img src="https://img.shields.io/github/license/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="LICENSE">
