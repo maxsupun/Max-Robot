@@ -81,7 +81,7 @@ Special Credits to All who helped at a glance
   </details>
 
 <details>
-<summary><h4>Credits </h4>
+<summary><h4>Credits </h4><summary>
   
 - [Sadew Jsk](https://Github.com/sadew451)
 - [Supunma](https://Github.com/supunmadurangasl)
@@ -90,7 +90,7 @@ Special Credits to All who helped at a glance
 - [Deshadeeth Thisarana](https://t.me/DeshadeethThisarana)
 - [TeamDaisyx](https://github.com/teamdaisyx)
   
-  </details>
+ </details>
 
 <h3> Support</h3>
 
