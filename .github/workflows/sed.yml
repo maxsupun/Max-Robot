@@ -13,9 +13,9 @@ jobs:
       - name: Pull All Updates
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'Welcome to Daisy X'
+          commit_message: 'Welcome to Max Robot'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: InukaAsith
-          commit_user_email: inukaasith7@gmail.com
-          commit_author: inukaasith <inukaasith7@gmail.com>
+          commit_user_name: maxsupun
+          commit_user_email: maxsupun2005@gmail.com
+          commit_author: inukaasith <maxsupun2005@gmail.com>
