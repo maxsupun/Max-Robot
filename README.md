@@ -74,8 +74,8 @@ Special Credits to All who helped at a glance
 
 <h3> Support</h3>
 
-<a href="https://t.me/MaxRobotSupport"><img src="https://img.shields.io/badge/Support 🎉-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/MaxRobot_updates"><img src="https://img.shields.io/badge/Updates 💥-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MaxRobotSupport"><img src="https://img.shields.io/badge/Support-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MaxRobot_updates"><img src="https://img.shields.io/badge/Updates-Telegram%20Group-blue.svg?logo=telegram"></a>
 
  
 
