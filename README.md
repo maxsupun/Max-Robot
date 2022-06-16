@@ -34,10 +34,12 @@ The easiest way to deploy this Bot
 
 
 <h3> Repo Stats </h3>
+
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Max-Robot&theme=light)
 
 
 <h4> Self-hosting (For Devs)</h4>
+
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/maxsupun/Max-Robot
@@ -52,6 +54,7 @@ $ python3 -m Max-Robot
 ```
 
 <h4>Mandatory Vars </h4>
+
 ```
 [+] Make Sure You Add All These Mandatory Vars. 
     [-] APP_ID:   You can get this value from https://my.telegram.org
@@ -64,6 +67,7 @@ $ python3 -m Max-Robot
 ```
 
 Contributors
+
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=maxsupun/Max-Robot)  
 
 Should any be missing kindly let us know at [Max-Robot](https://t.me/MaxRobot_updates) or simply submit a pull request on the readme.
