@@ -94,7 +94,7 @@ Special Credits to All who helped at a glance
 -[Deshadeeth Thisarana](https://t.me/DeshadeethThisarana)
 - [TeamDaisyx](https://github.com/teamdaisyx)
 
-<h4> Support</h4>
+<h3> Support</h3>
 
 <a href="https://t.me/MaxRobotSupport"><img src="https://img.shields.io/badge/Support 🎉-Telegram%20Group-blue.svg?logo=telegram"></a>
 <a href="https://t.me/MaxRobot_updates"><img src="https://img.shields.io/badge/Updates 💥-Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -105,7 +105,7 @@ This project exists thanks to these awesome developers and their codes and contr
 And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
 Special thanks to you for using bot
 
-<h4> Check For Updates</h4> 
+<h3> Check For Updates</h3> 
 
 
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1)&nbsp; 
