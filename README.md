@@ -74,7 +74,8 @@ The Max-Robot bot(advanced)
 
 Special Credits to All who helped at a glance 
 
-<h4> Contributors </h4> 
+<details>
+  <summary><h4> Contributors </h4></summary> 
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=maxsupun/Max-Robot)  
 
