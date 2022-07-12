@@ -3,7 +3,7 @@
 A Special Group manager Bot to help you to protect and manage your Groups
 
 
-<p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/07b5e011bc9db2246e852.jpg" width="400" ></a></p>
+<p align="left"><a href="https://t.me/MaxRobotSupport"><img src="https://telegra.ph/file/db10328cdc57c10414df7.jpg" width="400" ></a></p>
 <p align="left"> <br>
     <img src="https://img.shields.io/github/license/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/maxsupun/Max-Robot?style=for-the-badge&logo=appveyor" alt="Contributors">
