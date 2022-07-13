@@ -59,4 +59,4 @@ opencv-python-headless
 telegraph
 aiohttp[speedups]
 aiofiles
-pyrogram==1.4
+pyrogram==2.0
