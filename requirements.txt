@@ -4,7 +4,7 @@ lxml
 beautifulsoup4
 requests
 sqlalchemy
-python-telegram-bot==12.8
+python-telegram-bot
 psycopg2-binary==2.8.6
 feedparser
 pynewtonmath
@@ -24,13 +24,13 @@ regex
 bleach
 git+https://github.com/starry69/python-markdown2.git
 wikipedia
-telethon==1.16.4
+telethon
 spamwatch
 alphabet_detector
 pyrate-limiter
 cachetools
-pyrogram>=1.0.7
-tgCrypto>=1.2.2
+pyrogram
+tgcrypto
 fontTools
 gtts
 apscheduler
@@ -59,4 +59,3 @@ opencv-python-headless
 telegraph
 aiohttp[speedups]
 aiofiles
-pyrogram==2.0
